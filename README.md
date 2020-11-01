@@ -9,3 +9,4 @@ iii.	Create a .dacpac file using sample database
 iv.	Create a Visual studio solution package file
 v.	Creating CI/CD pipeline on Azure devops
 vi.	Deploying Azure SQL database
+###################################################
