@@ -1,7 +1,7 @@
 # Adventure_DB
 
 SQL Database auto-deployment using Azure CI/CD pipeline
-
+###################################################
 Work Flow:
 i.	Download Adventure sample database from Microsoft Website
 ii.	Restore Database using SSMS
