@@ -1,4 +1,4 @@
-﻿CREATE TABLE [Sales].[Customer] (
+﻿CREATE TABLE [Sales].[Customer1] (
     [CustomerID]    INT              IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
     [PersonID]      INT              NULL,
     [StoreID]       INT              NULL,
